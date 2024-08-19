@@ -2,9 +2,9 @@
 In line with this goal, comments will be tagged by sentiment analysis and a classification model will be created with the tagged data.
 
 
- Dataset Story:
+🚩Dataset Story:
 
- The data set consists of variables indicating the comments made on a particular product group, the comment title, the number of stars, and how many people found the comment useful.
+The data set consists of variables indicating the comments made on a particular product group, the comment title, the number of stars, and how many people found the comment useful.
 
 Variables:
 Review: Comment on the product
