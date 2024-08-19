@@ -6,7 +6,8 @@ In line with this goal, comments will be tagged by sentiment analysis and a clas
 #######################
  The data set consists of variables indicating the comments made on a particular product group, the comment title, the number of stars, and how many people found the comment useful.
 
-# Review: Comment on the product
-# Title: Title given to the comment content, short comment
-# HelpFul: Number of people who found the comment helpful
-# Star: Number of stars given to the product
+Variables:
+Review: Comment on the product
+Title: Title given to the comment content, short comment
+HelpFul: Number of people who found the comment helpful
+Star: Number of stars given to the product
